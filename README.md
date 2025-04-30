@@ -1,6 +1,6 @@
 # Shopping list project. 
-Smaller project where I plan on making both a smaller backend and frontend. 
-It's going to be a project with featurues of saving list and creating a basic grocery list. 
+Smaller project where I plan on making both smaller backend and frontend, and also use the struture planning and testing. 
+It's going to be a project with featurues of saving list and creating both a basic grocery list and other wish/necessary lists. 
 
 
 ## Shoplist + Javascript 3 = True
