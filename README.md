@@ -10,3 +10,8 @@ the topics of this course.
 ## Figma planning
 Here is the link for my planning on figma. 
 https://www.figma.com/board/bqdEVtCxNW28kNoCcqBMRd/Untitled?node-id=0-1&t=lQtwOQSjEAf9UZyO-1
+
+
+## Installerade ramverk och verktyg
+- React Vite 
+- Jester (för testning)
