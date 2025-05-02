@@ -15,3 +15,4 @@ https://www.figma.com/board/bqdEVtCxNW28kNoCcqBMRd/Untitled?node-id=0-1&t=lQtwOQ
 ## Installerade ramverk och verktyg
 - React Vite 
 - Jester (för testning)
+- Cypress (för testning)
