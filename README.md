@@ -10,6 +10,8 @@ the topics of this course.
 ## Figma planning
 Here is the link for my planning on figma. 
 https://www.figma.com/board/bqdEVtCxNW28kNoCcqBMRd/Untitled?node-id=0-1&t=lQtwOQSjEAf9UZyO-1
+Here is the link for the design work and prototype
+https://www.figma.com/design/h3xujIFGzFZfwXZZUMAXzf/Untitled?node-id=0-1&t=XEdtSPNgzYQmdRWP-1
 
 
 ## Installerade ramverk och verktyg
